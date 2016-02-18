@@ -2,4 +2,8 @@
 
 # awesome-mind-maps
 
-Curated list of awesome book mind maps 
+Curated list of awesome book mind maps.
+
+You might need [Simple Mind](http://www.simpleapps.eu/simplemind/desktop) software to view them.
+
+If you want to contribute, just make sure that information for mind map is not redundant and open a PR.
