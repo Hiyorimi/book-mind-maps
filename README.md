@@ -4,6 +4,10 @@
 
 Curated list of awesome book mind maps.
 
-You might need [Simple Mind](http://www.simpleapps.eu/simplemind/desktop) software to view them.
+You might need [Simple Mind](http://www.simpleapps.eu/simplemind/desktop) to view them.
+
+## Contributing and mind mapping simplified
+
+You can easily generate a mind map from your iBooks notes using [this](https://github.com/Hiyorimi/ibooks_highlights_export) script. After export you only have to edit manually, summarazing information.
 
 If you want to contribute, just make sure that information for mind map is not redundant and open a PR.
